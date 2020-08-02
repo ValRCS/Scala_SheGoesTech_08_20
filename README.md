@@ -33,6 +33,16 @@ Scala Boot Camp starting August 2020 for SheGoesTech - https://shegoestech.lv/
 * Code Blocks (Curly Braces, changes in Dotty)
 
 
+## Day 3 (3h) - Data and Variables 
+* Standard Data Types in Scala (primitives in other languages)
+* Data Representation
+* Literals
+* Shortcut notations
+* Maximum/Minimum Values of Primitive Number Types
+* Casting
+* Declaration, assignment, initializing declaration
+
+
 
 
 

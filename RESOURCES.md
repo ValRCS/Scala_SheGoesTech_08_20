@@ -30,3 +30,9 @@
 ## Blogs
 * https://alvinalexander.com/scala/ - Author of Scala Cookbook
 * https://www.lihaoyi.com/ - Author of Hands On Scala
+
+
+## Tools
+
+JetBrains IntelliJ
+* https://www.jetbrains.com/idea/download

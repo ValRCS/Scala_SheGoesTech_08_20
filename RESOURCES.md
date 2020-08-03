@@ -4,6 +4,10 @@
 
 ![SCALA](https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png)
 
+## Getting Started
+
+* https://docs.scala-lang.org/getting-started/index.html
+
 ## Online REPL
 
 * https://scastie.scala-lang.org/

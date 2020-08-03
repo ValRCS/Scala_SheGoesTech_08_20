@@ -18,3 +18,7 @@
 * https://www.handsonscala.com/
 
 ![HandsOnScala](https://www.handsonscala.com/Mockup.png)
+
+## Blogs
+* https://alvinalexander.com/scala/ - Author of Scala Cookbook
+* https://www.lihaoyi.com/ - Author of Hands On Scala

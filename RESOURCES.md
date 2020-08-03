@@ -13,4 +13,4 @@
 
 * [Programming in Scala (4th Edition)](https://www.amazon.com/Programming-Scala-Martin-Odersky/dp/098153161X)
 
-[!PScala](https://images-na.ssl-images-amazon.com/images/I/415cpVSxVmL._SX377_BO1,204,203,200_.jpg)
+![PScala](https://images-na.ssl-images-amazon.com/images/I/415cpVSxVmL._SX377_BO1,204,203,200_.jpg)

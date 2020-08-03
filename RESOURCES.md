@@ -8,6 +8,10 @@
 
 * https://docs.scala-lang.org/getting-started/index.html
 
+
+## SCALA Overview
+* https://docs.scala-lang.org/overviews/scala-book/scala-features.html
+
 ## Online REPL
 
 * https://scastie.scala-lang.org/

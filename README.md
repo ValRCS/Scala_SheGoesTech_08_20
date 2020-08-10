@@ -42,7 +42,31 @@ Scala Boot Camp starting August 2020 for SheGoesTech - https://shegoestech.lv/
 * Casting
 * Declaration, assignment, initializing declaration
 
+## Day 4 (3h)	Mathematics & Logic
+*	Defining principles
+* Math operators
+* 	Scala Floating Point Math
+* 	Using Math class
+### Scala Functions
+*	Divide and conquer principle
 
+## Day 5 (3h) Branching - if \ else
+	Logical operators
+	Sequential Flow Control
+	Conditional Flow Control
+	Nested-if
+## Day 6 (3h)	Branching - practical assignment
+*	Nested-if vs. Sequential-if
+* Branching - Pattern Matching + practical assignment
+	* Pattern Matching
+	* Use Pattern Matching Case or If-Else
+## Day 7	Scala Arrays and Sequences (theory)
+*	Creating and initializing an array
+* Array Index and Array's length
+* 	Using an array
+* 	Two dimensional array
+## Day 8 Looping cycles (theory)
+*	Using loops while, for loop, forEach and do while with arrays.
 
 
 

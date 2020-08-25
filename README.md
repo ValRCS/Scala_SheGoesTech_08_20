@@ -82,6 +82,17 @@ Scala Boot Camp starting August 2020 for SheGoesTech - https://shegoestech.lv/
 * Writing Files
 * Closing Files
 
+# Day 12 Strings - Practical Assignment
+
+# Day 13 - Introduction to Object Oriented Programming - OOP
+
+# Day 14 - OOP continued 
+* modules
+* namespaces
+
+
+# Day 15 - OOP in practice
+
 
 
  

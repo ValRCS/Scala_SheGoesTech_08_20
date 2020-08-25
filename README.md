@@ -68,6 +68,19 @@ Scala Boot Camp starting August 2020 for SheGoesTech - https://shegoestech.lv/
 ## Day 8 Looping cycles (theory)
 *	Using loops while, for loop, forEach and do while with arrays.
 
+## Day 9 Loops and Sequences - sorting
+*	Different ways of sorting
+
+## Day 10 Strings
+* String operations
+* Regex - short introduction
+* Calendar, Data
+
+## Day 11 Strings - File IO
+* Opening Files
+* Reading Contents
+* Writing Files
+* Closing Files
 
 
 

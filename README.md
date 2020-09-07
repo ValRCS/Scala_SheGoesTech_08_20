@@ -93,6 +93,16 @@ Scala Boot Camp starting August 2020 for SheGoesTech - https://shegoestech.lv/
 
 # Day 15 - OOP in practice
 
+# Day 16 - Scala Collections  - theory
 
+Data structures
+List, Queue, Set
+
+# Day 17 - Scala Collections  - theory
+HashMap, HashTable, TreeMap
+
+# Day 18 - Scala Collections - practical assingments 
+Simple algorithm - search, sort.
+Work with loops (For loop, ForEach)
 
  

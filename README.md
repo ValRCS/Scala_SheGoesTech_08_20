@@ -105,4 +105,19 @@ HashMap, HashTable, TreeMap
 Simple algorithm - search, sort.
 Work with loops (For loop, ForEach)
 
+# Day 19 Intro in DB
+Scala and database
+Setup local database server - install SQLite (serverless)
+JDBC 
+Setting up the environment - installing SQLite, relational databases theory, connection string formation
+# Day 20 Intro in SQL
+"SQL basics - creating databases and database tables, updating tables, dropping tables
+"
+"Basic SQL commands - select, where and wildcards
+ORDER BY and GROUP BY commands"
+# Day 21 Joining multiple database tables
+* Intermediate SQL - subqueries
+* transactions (ACID principles), views, indexes and constraints"
+
+
  
